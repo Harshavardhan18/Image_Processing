@@ -8,7 +8,7 @@ using namespace std;
 
 int main() {
 	//Read Image
-	Mat img = imread("C:\\Users\\Harsha527\\Desktop\\IPVP\\Image1.jpg");
+	Mat img = imread("C:\\Users\\Desktop\\IPVP\\Image1.jpg"); //Path of Image
 	
 	if (img.empty()) {
 		cout << "Could not open the image" << endl;

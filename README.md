@@ -12,7 +12,7 @@ The purpose of image processing is divided into 5 groups. They are:
 
 Image Processing can be performed in various computer languages such as C++, Java, Python, Matlab etc. 
 
-I am using C++ and opencv library which is supported by many languages also, in Visual Studio to perform the following operations given bellow.
+I am using C++ and opencv library which is supported by many languages, in Visual Studio to perform the following operations given bellow.
 
 1. Color Image to Grey Scale(Black and White) Image.
 2. Transpose of an Image (Colored or B&W).

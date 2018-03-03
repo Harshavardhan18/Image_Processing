@@ -7,7 +7,7 @@ using namespace cv;
 int main()
 {
 	//Read Image
-	Mat image = imread("C:\\Users\\Harsha527\\Desktop\\IPVP\\Image1.jpg");
+	Mat img = imread("C:\\Users\\Desktop\\IPVP\\Image1.jpg"); //Path of Image
 	//Display Image
 	imshow("Image", image);
 	//Matrix for Gray Scale Image

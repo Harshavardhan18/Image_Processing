@@ -7,8 +7,7 @@ using namespace cv;
 using namespace std;
 
 int main(int argc,char** argv) {
-	Mat img = imread("C:\\Users\\Harsha527\\Desktop\\IPVP\\Image1.jpg");
-
+	Mat img = imread("C:\\Users\\Desktop\\IPVP\\Image1.jpg"); //Path of Image
 	if (img.empty()) {
 		cout << "Could not open image" << endl;
 		return -1;

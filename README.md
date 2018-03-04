@@ -31,3 +31,4 @@ I am using C++ and opencv library which is supported by many languages, in Visua
    b) 8-connected.
 10.Image Quantization (Colored or B&W).
 11.Gamma Correction.
+12.Histogram Equalization (B&W).
